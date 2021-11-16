@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TaskItem renders correctly 1`] = `
+<TaskItem
+  id={1}
+  isCompleted={false}
+  onComplete={[Function]}
+  onDelete={[Function]}
+  value="new task"
+/>
+`;

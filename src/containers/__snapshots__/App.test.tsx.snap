@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders correctly 1`] = `
+<App
+  store={
+    Object {
+      "data": Array [
+        Object {
+          "id": 1,
+          "isCompleted": false,
+          "value": "Learn TDD",
+        },
+        Object {
+          "id": 2,
+          "isCompleted": false,
+          "value": "Write TDD",
+        },
+        Object {
+          "id": 3,
+          "isCompleted": false,
+          "value": "Peace of mind",
+        },
+      ],
+      "itemId": 3,
+    }
+  }
+/>
+`;

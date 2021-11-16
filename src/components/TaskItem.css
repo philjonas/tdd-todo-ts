@@ -1,0 +1,25 @@
+.task-item{
+    display: flex;
+    padding: 10px 5px;
+}
+
+.task-item-complete{
+    border: 1px black solid;
+    margin: 0 5px 0 5px;
+    user-select: none;
+    width: 15%;
+}
+
+.task-item-text{
+    width: 70%;
+    text-align: start;
+    padding: 0 10px;
+}
+
+.task-item-delete{
+    width: 15%;
+}
+
+.completed{
+    text-decoration: line-through;
+}
